@@ -1,6 +1,6 @@
-<h1 align="center">Sistema de Manutencao de Contas </h1>
+<h1 align="center">Sistema de Manutencao de Contas 🏦</h1>
 
-Sistema em C para gerenciar contas bancarias em arquivo 🏦binario de registros de tamanho fixo.
+Sistema em C para gerenciar contas bancarias em arquivo binario de registros de tamanho fixo.
 
 ## Estrutura da atividade:
 
