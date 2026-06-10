@@ -9,8 +9,9 @@ Sistema em C para gerenciar contas bancarias em arquivo 🏦binario de registros
 ├── include/
 │   └── clientes.h    # struct Cliente e assinaturas das funcoes
 ├── src/
-│   ├── main.c        # menu interativo e loop principal
 │   └── clientes.c    # operacoes sobre o arquivo binario
+├── main/
+│   ├── main.c        # menu interativo e loop principal
 ├── Makefile
 └── README.md
 ```
